@@ -1,2 +1,9 @@
 ﻿  Programming Practice 1.cpp
-  Programming Practice 1.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical work 1\Programming Practice 1\x64\Debug\Programming Practice 1.exe
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(17,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(27,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(38,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(71,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(81,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(101,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(111,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Programming Practice 1.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\x64\Debug\Programming Practice 1.exe
