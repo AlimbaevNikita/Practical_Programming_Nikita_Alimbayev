@@ -1,0 +1,13 @@
+﻿  Programming Practice 1.cpp
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(17,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(27,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(38,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(71,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(81,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(101,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\Programming Practice 1.cpp(111,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Programming Practice 1.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Programming Practice 1\x64\Release\Programming Practice 1.exe
