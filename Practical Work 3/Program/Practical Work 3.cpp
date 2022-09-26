@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <math.h>
-#include "Header.h"
+#include "TextTrash.h"
 
 using namespace  std; 
 
