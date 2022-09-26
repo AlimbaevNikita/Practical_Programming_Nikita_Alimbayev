@@ -1,0 +1,12 @@
+﻿  Practical Work 3.cpp
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Header.h(10,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Header.h(13,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Header.h(16,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Header.h(19,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(70,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(70,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(71,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(71,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(73,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\Practical Work 3.cpp(73,256): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Practical Work 3.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 3\x64\Debug\Practical Work 3.exe
