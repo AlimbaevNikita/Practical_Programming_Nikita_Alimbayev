@@ -17,6 +17,7 @@ int main()
         cout << "c = "; cin >> c;
 
         cout << ((a + b > c) ? "Да" : "Нет") << endl;
+        break;
     }
         //Задание 2
        Task2TextOutput();
