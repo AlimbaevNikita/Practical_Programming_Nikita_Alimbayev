@@ -1,0 +1,10 @@
+﻿  Practical Work 6.cpp
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 6\Practical Work 6.cpp(59,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 6\Practical Work 6.cpp(59,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 6\Practical Work 6.cpp(59,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 6\Practical Work 6.cpp(59,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Practical Work 6.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 6\x64\Release\Practical Work 6.exe
