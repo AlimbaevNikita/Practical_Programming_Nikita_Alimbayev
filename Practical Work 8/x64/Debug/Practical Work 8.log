@@ -1,0 +1,3 @@
+﻿  Practical Work 8.cpp
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 8\Practical Work 8.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Practical Work 8.vcxproj -> C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical Work 8\x64\Debug\Practical Work 8.exe
