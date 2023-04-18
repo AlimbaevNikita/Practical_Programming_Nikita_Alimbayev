@@ -1,0 +1,3 @@
+﻿  PracticalWork_1.cpp
+C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical programming 2\PracticalWork_!\PracticalWork_1\PracticalWork_1.cpp(107,33): warning C4566: character represented by universal-character-name '\U0001D45B' cannot be represented in the current code page (1251)
+LINK : fatal error LNK1168: cannot open C:\Users\xtaraz\Documents\Университет\Practical_Programming_Nikita_Alimbayev\Practical programming 2\PracticalWork_!\PracticalWork_1\x64\Debug\PracticalWork_1.exe for writing
