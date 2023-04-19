@@ -1,32 +1,74 @@
 ﻿#include <iostream>
-#include "Product.h"
+#include <string>
 
 using namespace std;
 
-int main()
-{
-    Product p1;
-    cout << "Product 1:" << endl;
-    p1.display();
+class Student {
+private:
+    string name;
+    string faculty;
+    int course;
 
-    Product p2("Phone", "Electronics", 9999, 10);
-    cout << "Product 2:" << endl;
-    p2.display();
-
-    const int arrSize = 3;
-    Product arr[arrSize];
-
-    for (int i = 0; i < arrSize; i++) {
-        cout << "Enter data for product " << i + 1 << ":" << endl;
-        arr[i].input();
+public:
+    Student(string name, string faculty, int course) {
+        this->name = name;
+        this->faculty = faculty;
+        this->course = course;
     }
 
-    for (int i = 0; i < arrSize; i++) {
-        cout << "Product " << i + 1 << ":" << endl;
-        arr[i].display();
+    string getFaculty() const {
+        return faculty;
     }
 
-    cout << "Total cost of all products: " << totalCost(arr, arrSize) << endl;
+    int getCourse() const {
+        return course;
+    }
+
+    void printInfo() const {
+        cout << "Name: " << name << endl;
+        cout << "Faculty: " << faculty << endl;
+        cout << "Course: " << course << endl;
+    }
+};
+
+void printStudentsByFacultyAndCourse(const Student* students, int count) {
+    string faculty;
+    int course;
+
+    cout << "Enter faculty: ";
+    cin >> faculty;
+
+    cout << "Enter course: ";
+    cin >> course;
+
+    cout << "Students of " << faculty << " faculty, " << course << " course:" << endl;
+
+    bool found = false;
+    for (int i = 0; i < count; i++) {
+        if (students[i].getFaculty() == faculty && students[i].getCourse() == course) {
+            students[i].printInfo();
+            found = true;
+        }
+    }
+
+    if (!found) {
+        cout << "No students found for the specified faculty and course." << endl;
+    }
+}
+
+int main() {
+    Student students[] = {
+       Student("Twilight Sparkle", "CS", 3),
+        Student("Rainbow Dash", "Math", 2),
+        Student("Fluttershy", "Physics", 4),
+        Student("Pinkie Pie", "CS", 1),
+        Student("Rarity", "Math", 2),
+        Student("Applejack", "Physics", 3)
+    };
+
+    int count = sizeof(students) / sizeof(Student);
+
+    printStudentsByFacultyAndCourse(students, count);
 
     return 0;
 }
