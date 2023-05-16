@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-#include <memory> /
+#include <memory> 
 using namespace std;
 
 	//Задание_1
